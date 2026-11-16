@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-11-16",
+  "categories": [
+    {
+      "id": "audio",
+      "title": "Audio",
+      "icon_url": "https://REMPLACE-MOI/icons/audio.png",
+      "order": 1,
+      "items": [
+        {
+          "id": "audio-baiboly-mg",
+          "title": "Baiboly audio (malagasy)",
+          "description": "Lecture audio complète de la Bible.",
+          "type": "audio",
+          "url": "https://REMPLACE-MOI/downloads/baiboly-audio.mp3",
+          "mime_type": "audio/mpeg",
+          "file_name": "baiboly-audio.mp3",
+          "file_size": 0,
+          "sha256": "",
+          "version": 1,
+          "published_at": "2026-11-16",
+          "cover_url": "https://REMPLACE-MOI/covers/baiboly-audio.jpg",
+          "language": "mg",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "video",
+      "title": "Vidéo",
+      "order": 2,
+      "items": [
+        {
+          "id": "video-litorjia-2026-11-22",
+          "title": "Litorjia 22 novambra 2026",
+          "description": "",
+          "type": "video",
+          "url": "https://REMPLACE-MOI/downloads/litorjia-2026-11-22.mp4",
+          "mime_type": "video/mp4",
+          "file_name": "litorjia-2026-11-22.mp4",
+          "file_size": 0,
+          "sha256": "",
+          "version": 1,
+          "published_at": "2026-11-16",
+          "language": "mg",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "bd",
+      "title": "BD",
+      "order": 3,
+      "items": [
+        {
+          "id": "bd-baiboly-t1",
+          "title": "Baiboly BD — Tome 1",
+          "description": "",
+          "type": "bd",
+          "url": "https://REMPLACE-MOI/downloads/bd-baiboly-t1.pdf",
+          "mime_type": "application/pdf",
+          "file_name": "bd-baiboly-t1.pdf",
+          "file_size": 0,
+          "sha256": "",
+          "version": 1,
+          "published_at": "2026-11-16",
+          "cover_url": "https://REMPLACE-MOI/covers/bd-baiboly-t1.jpg",
+          "language": "mg",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "contenu",
+      "title": "Contenu pour l'application",
+      "order": 4,
+      "items": [
+        {
+          "id": "contenu-programme-liturgique",
+          "title": "Programme liturgique 2026",
+          "description": "Fichier JSON chargé directement par l'application.",
+          "type": "json",
+          "url": "https://REMPLACE-MOI/content/programme-liturgique.json",
+          "mime_type": "application/json",
+          "file_name": "programme-liturgique.json",
+          "version": 1,
+          "published_at": "2026-11-16",
+          "language": "mg",
+          "enabled": true
+        }
+      ]
+    }
+  ]
+}

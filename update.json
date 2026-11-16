@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "version_code": 4,
+  "version_name": "4.0",
+  "apk_url": "https://REMPLACE-MOI/app-debug.apk",
+  "file_size": 33469634,
+  "sha256": "750ee87a941795d0fa23dfc25a2f93304a2018903a346767d4590fcc47c65499",
+  "published_at": "2026-11-15",
+  "forced": false,
+  "min_supported_version_code": 1,
+  "changelog": [
+    "Ajout de programme liturgique personnalisable."
+  ]
+}
